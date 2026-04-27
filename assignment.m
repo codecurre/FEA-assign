@@ -263,3 +263,6 @@ title(['Original (blue) vs Deformed (red) — x' num2str(scale) ' scale']);
 legend('Original', 'Deformed');
 view(3);
 hold off;
+
+
+%some code was inspired by truss13bar :)
